@@ -3,4 +3,7 @@
 Latest [blog](https://leonh.fr/) posts:
 
 <!-- BLOG-POST-LIST:START -->
+- [Help Message for Shell Scripts](https://leonh.fr/help-message-for-shell-scripts/)
+- [About](https://leonh.fr/about/)
+- [Hello, friend](https://leonh.fr/hello-friend/)
 <!-- BLOG-POST-LIST:END -->
