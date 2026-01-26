@@ -3,6 +3,7 @@
 Latest [blog](https://leonh.fr/) posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [About](https://leonh.fr/about/)
-- [Hello, friend](https://leonh.fr/hello-friend/)
+- [Simple shell script subcommands](https://leonh.fr/posts/shell-script-subcommands/)
+- [Help message for shell scripts](https://leonh.fr/posts/shell-script-help/)
+- [Hello, friend](https://leonh.fr/posts/hello-friend/)
 <!-- BLOG-POST-LIST:END -->
