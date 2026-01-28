@@ -3,6 +3,7 @@
 Latest [blog](https://leonh.fr/) posts:
 
 <!-- BLOG-POST-LIST:START -->
+- [I shipped a transaction bug, so I built a linter](https://leonh.fr/posts/go-transaction-linter/)
 - [One mockgen flag can make your CI 5x faster](https://leonh.fr/posts/mockgen-source-mode/)
 - [Simple shell script subcommands](https://leonh.fr/posts/shell-script-subcommands/)
 - [Help message for shell scripts](https://leonh.fr/posts/shell-script-help/)
